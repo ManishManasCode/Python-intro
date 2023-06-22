@@ -1,0 +1,4 @@
+git branch --> check your branch
+git add .  --> add it to staging area
+git commit -m "message you want to keep "  -> commit all your changes
+git push origin main
